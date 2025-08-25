@@ -22,6 +22,7 @@ After deploying via the button below, please visit the **Site Overview** page fo
 
 2. For the starter to have full functionality locally (e.g. edge functions, blob store), please ensure you have an up-to-date version of Netlify CLI. Run:
 
+
 ```
 npm install netlify-cli@latest -g
 ```
